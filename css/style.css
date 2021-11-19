@@ -153,6 +153,10 @@ label#description {
     text-align: right;
 }
 
+.hidden {
+    display: none;
+}
+
 .row {
     display: flex;
     justify-content: flex-start;
@@ -172,9 +176,6 @@ aside {
     display: flex;
     justify-content: end;
 }
-
-
-/* Footer */
 
 footer {
     display: flex;

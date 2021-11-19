@@ -53,8 +53,7 @@ include_once "includes/add_advert_include.php";
                         <p class="label"><label class="price" for="price">Prix</label></p>
                         <input type="number" name="price" id="price">
                     </div>
-                    <div>
-                        <p class="label"><label class="message" for="description">Message de réservation</label></p>
+                    <div class="hidden">
                         <textarea type="text" class="message" name="message" id="message" cols="30" rows="3" placeholder="Message de réservation"></textarea>
                     </div>
                 </p>

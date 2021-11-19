@@ -1,6 +1,6 @@
 <header>
     <a href="./">
-        <img src="images/logo.jpeg" alt="logo">
+        <img src="images/logo.jpg" alt="logo">
     </a>
 
     <!-- Nav Bar -->

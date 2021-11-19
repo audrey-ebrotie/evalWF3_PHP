@@ -8,7 +8,7 @@ include_once "includes/all_adverts_include.php";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Logic Immo - Consulter toutes les annnces</title>
+    <title>Le Bon Appart - Consulter toutes les annnces</title>
 
     <!-- CSS -->
     <link rel="stylesheet" href="css/style.css">

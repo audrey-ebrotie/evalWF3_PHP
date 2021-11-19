@@ -1,7 +1,7 @@
 <?php
 $message = null;
 
-include_once "products_functions.php";
+include_once "adverts_functions.php";
 
 if(isset($_POST) && $_POST !== []) {
     addMessage($_POST["id"], $_POST);

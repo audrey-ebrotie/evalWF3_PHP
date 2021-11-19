@@ -8,7 +8,7 @@ include_once "includes/all_adverts_include.php";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Logic Immo - Consulter toutes les annnces</title>
+    <title>Le Bon Appart - Consulter toutes les annnces</title>
 
     <!-- CSS -->
     
@@ -27,7 +27,7 @@ include_once "includes/all_adverts_include.php";
                 <img src="images/image1.jpeg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-caption d-none d-md-block">
-        <h1>Logic Immo</h1>
+        <h1>Le Bon Appart</h1>
         <p>Les meilleurs offres immobilières à Lille.</p>
       </div>
     </div>
